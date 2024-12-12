@@ -18,7 +18,7 @@ Este é um portfólio fictício criado para **Chefe**, um gato especialista em c
 - **HTML5**: Estrutura básica do conteúdo.
 - **CSS3**: Estilização e design do site.
 - **Sass**: Para um CSS mais organizado e modular.
-- **JavaScript**: Para interatividade e modificação dinâmica do conteúdo.
+- **JavaScript**: Para inserir html.
 - **Normalize.css**: Para garantir que o layout seja consistente em diferentes navegadores.
 - **Google Fonts**: Utilização das fontes *Poppins* e *Playfair Display*.
 
