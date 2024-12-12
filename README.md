@@ -3,7 +3,7 @@ Este é um portfólio fictício criado para **Chefe**, um gato especialista em c
 
 
 ## Capturas de Tela
-
+<div style="display: flex;">
 ### Desktop
 
 <img src="src/img/desck_chef.jpeg" alt="Desktop">
@@ -11,6 +11,8 @@ Este é um portfólio fictício criado para **Chefe**, um gato especialista em c
 ### Mobile
 
 <img src="src/img/cell_chef.jpeg" alt="Mobile">
+</div>
+
 
 ## Tecnologias Usadas
 
