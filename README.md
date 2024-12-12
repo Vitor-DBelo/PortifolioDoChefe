@@ -3,15 +3,13 @@ Este é um portfólio fictício criado para **Chefe**, um gato especialista em c
 
 
 ## Capturas de Tela
-<div style="display: flex;">
+<div style="display: flex;     text-align: center;">
+  
 ### Desktop
+<img src="src/img/desck_chef.jpeg" alt="Desktop" >
 
-<img src="src/img/desck_chef.jpeg" alt="Desktop" style="width: 500px;   height: auto;">
 ### Mobile
-<img src="src/img/cell_chef.jpeg" alt="Mobile" style="width: 400px;   height: auto;">
-
-
-
+<img src="src/img/cell_chef.jpeg" alt="Mobile" >
 </div>
 
 
