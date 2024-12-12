@@ -6,7 +6,7 @@ Este é um portfólio fictício criado para **Chefe**, um gato especialista em c
 
 ### Desktop
 
-<img src="src/img/desk_chef.jpeg" alt="Desktop">
+<img src="src/img/desck_chef.jpeg" alt="Desktop">
 
 ### Mobile
 
