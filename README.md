@@ -6,11 +6,11 @@ Este é um portfólio fictício criado para **Chefe**, um gato especialista em c
 <div style="display: flex;">
 ### Desktop
 
-<img src="src/img/desck_chef.jpeg" alt="Desktop">
+<img src="src/img/desck_chef.jpeg" alt="Desktop" style="width: 40px;">
 
 ### Mobile
 
-<img src="src/img/cell_chef.jpeg" alt="Mobile">
+<img src="src/img/cell_chef.jpeg" alt="Mobile" style="width: 40px;">
 </div>
 
 
