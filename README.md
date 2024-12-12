@@ -1,5 +1,16 @@
 # Portfólio Responsivo Chefe 🐾
+Este é um portfólio fictício criado para **Chefe**, um gato especialista em controle de rataria, inspeção de caixas e auditoria de ração. O projeto tem como objetivo demonstrar habilidades adquiridas em front-end, com ênfase em responsividade, organização de código e integração com tecnologias como **HTML5**, **CSS3**, **Sass**, **Normalize.css** e **JavaScript**.
 
+
+## Capturas de Tela
+
+### Desktop
+
+<img src="src/img/desk_chef.jpeg" alt="Desktop">
+
+### Mobile
+
+<img src="src/img/cell_chef.jpeg" alt="Mobile">
 
 ## Tecnologias Usadas
 
